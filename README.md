@@ -1,2 +1,3 @@
 # hello-world
-This is from the Data Management Class introduction. 
+
+I deleted what was here before. Now I am going to write something new. 
